@@ -16,7 +16,7 @@ function Sidebar () {
 <hr></hr>
 <li><a>Login</a></li>
 <hr></hr>
-<li><a>Partnership-program</a></li>
+<img src='./jo.png' className="logo"/>
 </nav>
        </header>
     );
